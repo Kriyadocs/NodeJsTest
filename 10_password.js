@@ -1,4 +1,4 @@
-'''
+/*
 Given a password, check if the password is strong, weak or medium. 
 A strong password has
     At Least one uppercase letter
@@ -16,4 +16,4 @@ abc#
 
 Sample Output:
 weak
-'''
+*/
